@@ -1,0 +1,2 @@
+#third-repo
+This is an example repository for learning git.
